@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">ContestCalendar</string>
+    <string-array name="contest_sites">
+        <item>ALL</item>
+        <item>HackerRank</item>
+        <item>CodeChef</item>
+        <item>TopCoder</item>
+        <item>CodeForces</item>
+    </string-array>
 </resources>
